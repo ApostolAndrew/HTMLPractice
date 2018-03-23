@@ -1,2 +1,2 @@
 # HTMLPractice
-Learning HTML
+Learning HTML from codeacademy.com
